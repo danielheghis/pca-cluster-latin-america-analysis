@@ -1,0 +1,25 @@
+Country,P_max,P_2 clusters,P_3 clusters,P_4 clusters,P_5 clusters,P_6 clusters
+Argentina,C0,C0,C0,C1,C2,C4
+Belize,C1,C1,C1,C3,C3,C5
+Bolivia,C1,C1,C1,C3,C3,C5
+Brazil,C1,C1,C1,C3,C3,C5
+Chile,C0,C0,C0,C1,C2,C4
+Colombia,C1,C1,C1,C3,C3,C5
+Costa Rica,C0,C0,C0,C1,C2,C4
+Cuba,C1,C1,C1,C3,C3,C5
+Dominican Republic,C1,C1,C1,C3,C3,C5
+Ecuador,C1,C1,C1,C3,C3,C5
+El Salvador,C1,C1,C1,C3,C3,C5
+Guatemala,C1,C1,C2,C2,C4,C3
+Guyana,C1,C1,C1,C3,C3,C5
+Haiti,C1,C1,C2,C2,C4,C0
+Honduras,C1,C1,C2,C2,C4,C3
+Jamaica,C1,C1,C1,C3,C3,C5
+Mexico,C1,C1,C1,C3,C3,C5
+Nicaragua,C1,C1,C1,C3,C3,C5
+Panama,C0,C0,C0,C1,C2,C4
+Paraguay,C1,C1,C1,C3,C0,C1
+Peru,C1,C1,C1,C3,C3,C5
+Suriname,C1,C1,C1,C3,C3,C5
+Uruguay,C0,C0,C0,C1,C2,C4
+Venezuela,C1,C1,C2,C0,C1,C2
