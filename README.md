@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This repository contains data analysis and insights for countries in Latin America. The analysis employs Principal Component Analysis (PCA) and cluster analysis to explore patterns ### and relationships within the dataset.
+### This repository contains data analysis and insights for countries in Latin America. The analysis employs Principal Component Analysis (PCA) and cluster analysis to explore patterns and relationships within the dataset.
 
 ## Contents
 
